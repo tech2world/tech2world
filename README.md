@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulazeez Ibrahim
 ==========================================================================================================================================
 
-Full Stack Software Engineer
+An aspiring Full Stack Software Engineer
 -------------------
 
 I am an electrical/electronics engineer with a strong passion for programming. I started out as a self taught programmer learning basics of html and css. I'm currently in the ALX software engineering program, honing my skills of becoming the world best software engineer. I'm open to working on projects that would reshape the world and collaborate with great minds. I look forward to working/learning with/from you all😃. Remember alone we can do so little, but together we can do so much more 🤝.
